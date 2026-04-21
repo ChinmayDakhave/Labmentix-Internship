@@ -21,7 +21,7 @@ import re
 # =====================================================
 # CONFIGURATION - UPDATE THIS WITH YOUR DATABASE PATH
 # =====================================================
-DB_PATH = "2nd Project (Ola Rides Insights)/Streamlit Dashboard/ola_rides.db"  # <-- CHANGE THIS to your SQLite file path
+DB_PATH = "ola_rides.db"  # <-- CHANGE THIS to your SQLite file path
 QUERIES_FILE = "queries.sql"   # Path to your SQL queries file
 
 # =====================================================
